@@ -15,7 +15,7 @@ public class AE02 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        int aux = 0;
+        int aux;
         int a = 1;
         int b = 2;
         int c = 3;
